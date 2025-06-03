@@ -99,7 +99,7 @@ fn powered_by_egui_and_eframe(ui: &mut egui::Ui) {
         ui.spacing_mut().item_spacing.x = 0.0;
         ui.label("Powered by ");
         ui.hyperlink_to("egui", "https://github.com/emilk/egui");
-        ui.label(" and test ");
+        ui.label(" and test a ");
         ui.hyperlink_to(
             "eframe",
             "https://github.com/emilk/egui/tree/master/crates/eframe",
