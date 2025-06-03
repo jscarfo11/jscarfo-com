@@ -1,9 +1,9 @@
 [package]
-name = "eframe_template"
+name = "jscarfo-com"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
+authors = ["Jack Scarfo"]
 edition = "2021"
-include = ["LICENSE-APACHE", "LICENSE-MIT", "**/*.rs", "Cargo.toml"]
+include = ["LICENSE-MIT", "**/*.rs", "Cargo.toml"]
 rust-version = "1.81"
 
 [package.metadata.docs.rs]
